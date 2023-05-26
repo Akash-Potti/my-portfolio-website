@@ -7,14 +7,14 @@ const Projects = () => {
         {
             img: f1data,
             title: "f1dataanalytics",
-            desc: "decoding F1 performance data using python(Numpy,Pandas,Matplotlib",
+            desc: "decoding F1 performance data using python(Numpy,Pandas,Matplotlib)",
             live: "https://www.f1dataanalytics.com/"
 
         },
         {
             img: tensor,
             title: "Image Classification",
-            desc: "Classifying differnt type of clothing from a dataset using Tensoflow Library",
+            desc: "Classifying differnt type of clothing from a dataset using Tensorflow Library",
             live: "https://github.com/Akash-Potti/Image-Classifcation-fashion-using-tensorflow"
         }
     ];
