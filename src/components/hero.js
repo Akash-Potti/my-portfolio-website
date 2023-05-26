@@ -5,8 +5,8 @@ import hero from "../assets/hero.png"
 
 const Hero = () => {
     return (
-        <section className="bg-primary px-5 text-white py-32 items-center content-center">
-            <div className="container mx-auto grid md:grid-cols-2 items-center justify-center md:justify-between content-center	">
+        <section className="bg-primary px-5 text-white py-32 items-center ">
+            <div className="container mx-auto grid md:grid-cols-2 items-center justify-center md:justify-between 	">
                 <div className="hero-info md:pb-0 	">
                     <h1 className="text-4xl lg:text:6xl">
                         Hi, I am Akash
