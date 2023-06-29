@@ -8,7 +8,7 @@ const Contact = () => {
                     CONTACT
                 </h2>
                 <p>
-                    I am currently open for freelancing for Data Analyst and Web Devlopment role, If u want to dicuss about that feel free to contact me.
+                    I am currently open for freelancing for Data Analyst and Web Devlopment role, If you want to dicuss about that feel free to contact me.
                 </p>
                 <div className="">
                     <p className="py-5">
