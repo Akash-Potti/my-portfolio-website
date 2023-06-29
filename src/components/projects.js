@@ -16,13 +16,6 @@ const Projects = () => {
       desc: "Landing Page of Asia's first motorsport Academy",
       live: "https://www.unitedmotorsportsacademy.com/",
     },
-
-    {
-      img: tensor,
-      title: "Image Classification",
-      desc: "Classifying differnt type of clothing from a dataset using Tensorflow Library.",
-      live: "https://github.com/Akash-Potti/Image-Classifcation-fashion-using-tensorflow",
-    },
   ];
   return (
     <section className="bg-primary text-white px-5 py-32" id="projects">
